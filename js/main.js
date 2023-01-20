@@ -22,9 +22,6 @@ res
             <td>${item.population}</td>
         </tr>
         `;
-      // $('tbody').append(elem)
-      // $('.img').css('background-size', 'contain')
     });
   });
 
-console.log("sgvsfg");
