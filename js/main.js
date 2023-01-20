@@ -5,7 +5,7 @@
 // всех странах наподобие такой:
 // API: https://restcountries.com/v3.1/all
 
-let res = fetch("https:restcountries.com/v3.1/all");
+let res = fetch("https://restcountries.com/v3.1/all");
 
 res
   .then((result) => result.json())
@@ -25,3 +25,4 @@ res
     });
   });
 
+  
